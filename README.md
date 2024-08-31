@@ -44,11 +44,11 @@ Outcome: Recommendations for optimizing marketing and sales strategies during ma
 
 **Analysis:**
 
-Data preprocessing and feature engineering.
+-Data preprocessing and feature engineering.
 
-Exploratory Data Analysis (EDA) to identify patterns in customer behavior.
+-Exploratory Data Analysis (EDA) to identify patterns in customer behavior.
 
-Building machine learning models to predict churn.
+-Building machine learning models to predict churn.
 
 Outcome: A deeper understanding of why customers churn and strategies to reduce churn rates.
 
