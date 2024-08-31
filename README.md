@@ -54,6 +54,6 @@ This repository contains several data analysis projects implemented in Jupyter N
 
 
 
-**Contact**
+## ***Contact***
 
 For any questions or suggestions, please feel free to reach out to devansh.dp0403@gmail.com
