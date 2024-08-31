@@ -22,9 +22,9 @@ This repository contains several data analysis projects implemented in Jupyter N
 
 ### **2. Black Friday Analysis**
 
-Objective: Analyze Black Friday sales data to understand customer behavior and identify trends.
+**Objective**: Analyze Black Friday sales data to understand customer behavior and identify trends.
 
-Dataset: The dataset contains purchase details from various customers across different product categories.
+**Dataset**: The dataset contains purchase details from various customers across different product categories.
 
 **Analysis:**
 
@@ -34,7 +34,7 @@ Dataset: The dataset contains purchase details from various customers across dif
 
 -Sales trend analysis during the Black Friday period.
 
-Outcome: Recommendations for optimizing marketing and sales strategies during major sales events.
+**Outcome**: Recommendations for optimizing marketing and sales strategies during major sales events.
 
 ### **3. Customer Churn Analysis**
 
@@ -44,16 +44,16 @@ Outcome: Recommendations for optimizing marketing and sales strategies during ma
 
 **Analysis:**
 
-Data preprocessing and feature engineering.
+-Data preprocessing and feature engineering.
 
-Exploratory Data Analysis (EDA) to identify patterns in customer behavior.
+-Exploratory Data Analysis (EDA) to identify patterns in customer behavior.
 
-Building machine learning models to predict churn.
+-Building machine learning models to predict churn.
 
-Outcome: A deeper understanding of why customers churn and strategies to reduce churn rates.
+**Outcome**: A deeper understanding of why customers churn and strategies to reduce churn rates.
 
 
 
-**Contact**
+## ***Contact***
 
 For any questions or suggestions, please feel free to reach out to devansh.dp0403@gmail.com
